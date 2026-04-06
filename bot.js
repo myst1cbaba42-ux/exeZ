@@ -12,7 +12,7 @@ const client = new Client({
 
 const PREFIX = '!';
 const DATA_FILE = './playerData.json';
-const TOKEN = 'MTQ5MDY5MzE3NDA3NzY4OTk4OA.GMFW4w.PSZ6-pdY0ZGxUrVJ5KlpmCejLe9AhqLsj5UT0E';              // 🔴 Kendi token'ını yaz
+const TOKEN = '';              // 🔴 Kendi token'ını yaz
 const CLIENT_ID = '1490693174077689988';          // 🔴 Bot Client ID
 const OWNER_ID = '476475823914745856';     // 🔴 Kendi Discord ID'n (wh01.exe)
 
