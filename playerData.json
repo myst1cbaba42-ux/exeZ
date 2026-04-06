@@ -1,0 +1,95 @@
+{
+  "476475823914745856": {
+    "userId": "476475823914745856",
+    "username": "wh01.exe",
+    "bio": "Harran'da hayatta kalmaya çalışan bir cesur.",
+    "health": 24,
+    "maxHealth": 100,
+    "stamina": 30,
+    "infection": 0,
+    "level": 1,
+    "exp": 60,
+    "power": 1,
+    "agility": 1,
+    "scraps": 170,
+    "inventory": [
+      {
+        "name": "🩹 Bandaj",
+        "amount": 2,
+        "type": "heal",
+        "heal": 20,
+        "emoji": "🩹"
+      },
+      {
+        "name": "⚡ Enerji İçeceği",
+        "amount": 1,
+        "type": "stamina",
+        "stamina": 60,
+        "emoji": "⚡"
+      },
+      {
+        "name": "🪵 Tahta",
+        "amount": 5,
+        "type": "wood",
+        "craftMaterial": true,
+        "emoji": "🪵"
+      },
+      {
+        "name": "📌 Çivi",
+        "amount": 10,
+        "type": "nail",
+        "craftMaterial": true,
+        "emoji": "📌"
+      },
+      {
+        "name": "🧵 Kumaş",
+        "amount": 2,
+        "type": "cloth",
+        "emoji": "🧵",
+        "craftMaterial": true
+      }
+    ],
+    "ammo": {
+      "pistol": 0,
+      "shotgun": 0,
+      "rifle": 0,
+      "sniper": 0
+    },
+    "inventorySlots": 30,
+    "weapons": [
+      {
+        "name": "Tahta Parçası",
+        "emoji": "🪵",
+        "damage": 15,
+        "durability": 15,
+        "maxDurability": 20,
+        "type": "melee",
+        "effect": "ezme",
+        "effectDesc": "Sersemletme"
+      }
+    ],
+    "activeWeaponIndex": 0,
+    "blueprints": [
+      "bandaj",
+      "medkit",
+      "molotof",
+      "enerji",
+      "kilit"
+    ],
+    "activeZone": "🏚️ Gecekondu",
+    "isNight": false,
+    "ownedSafeZones": [
+      "🏚️ İlkel Sığınak"
+    ],
+    "activeSafeZone": "🏚️ İlkel Sığınak",
+    "lastActivity": 1775476402825,
+    "kills": 1,
+    "deaths": 0,
+    "totalScraps": 0,
+    "achievements": [],
+    "completedQuests": [],
+    "dailyKills": 0,
+    "dailyExplore": 0,
+    "currentEnemy": null
+  }
+}

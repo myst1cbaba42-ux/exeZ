@@ -1,0 +1,17 @@
+{
+  "name": "dying-light-bot",
+  "version": "9.0.0",
+  "description": "Dying Light Discord Bot with Web Dashboard",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dashboard": "node dashboard.js",
+    "both": "node bot.js & node dashboard.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.22.1",
+    "fs": "^0.0.1-security",
+    "socket.io": "^4.8.3"
+  }
+}
